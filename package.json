@@ -1,21 +1,38 @@
 {
-    "name": "birthplace-theme",
-    "displayName": "Birthplace",
-    "description": "a custom color theme!",
+    "name": "candyshop-theme",
+    "displayName": "Candyshop",
+    "description": "A pop-y vibrant dark theme for VSCode",
     "version": "0.0.1",
+    "publisher": "mayukhikhan",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mayukhi786/candyshop-theme"
+    },
     "engines": {
         "vscode": "^1.69.0"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "candyshop",
+        "candyshop theme",
+        "mayukhikhan theme",
+        "mayukhi",
+        "mayukhikhan",
+        "fun theme",
+        "colorful theme",
+        "bright",
+        "bright theme",
+        "fun dark theme"
+    ],
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Birthplace ",
-                "uiTheme": "vs",
-                "path": "./themes/Birthplace -color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Candyshop",
+            "uiTheme": "vs",
+            "path": "./themes/Candyshop-color-theme.json"
+        }]
     }
 }
