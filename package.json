@@ -1,0 +1,21 @@
+{
+    "name": "birthplace-theme",
+    "displayName": "Birthplace",
+    "description": "a custom color theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Birthplace ",
+                "uiTheme": "vs",
+                "path": "./themes/Birthplace -color-theme.json"
+            }
+        ]
+    }
+}
