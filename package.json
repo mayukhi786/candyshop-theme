@@ -1,7 +1,7 @@
 {
     "name": "candyshop-theme",
     "displayName": "Candyshop",
-    "description": "A pop-y vibrant dark theme for VSCode",
+    "description": "A vibrant dark theme for VSCode",
     "version": "0.0.1",
     "publisher": "mayukhikhan",
     "repository": {
@@ -29,13 +29,11 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Candyshop",
-                "uiTheme": "vs",
-                "path": "./themes/Candyshop-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "Candyshop",
+            "uiTheme": "vs",
+            "path": "./themes/Candyshop-color-theme.json"
+        }]
     },
     "dependencies": {
         "vsce": "^2.9.3"
