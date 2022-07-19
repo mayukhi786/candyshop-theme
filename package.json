@@ -29,10 +29,15 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
-            "label": "Candyshop",
-            "uiTheme": "vs",
-            "path": "./themes/Candyshop-color-theme.json"
-        }]
+        "themes": [
+            {
+                "label": "Candyshop",
+                "uiTheme": "vs",
+                "path": "./themes/Candyshop-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.9.3"
     }
 }
