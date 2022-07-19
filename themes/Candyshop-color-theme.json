@@ -3,7 +3,7 @@
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
-      "foreground": "#eeda75",
+      "foreground": "#efdb78",
       "welcomePage.background": "#0b1741",
       "keybindingLabel.background" : "#dbcb4c",
       "keybindingLabel.foreground" : "#0c0c32",
