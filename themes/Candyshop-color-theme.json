@@ -3,6 +3,7 @@
     "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
+      "foreground": "#eeda75",
       "welcomePage.background": "#0b1741",
       "keybindingLabel.background" : "#dbcb4c",
       "keybindingLabel.foreground" : "#0c0c32",
@@ -119,7 +120,7 @@
       "minimapSlider.hoverBackground": "#5D54F8a0",
       "notificationLink.foreground": "#E6453C",
       "notifications.background": "#0a1645",
-      "notifications.foreground": "#CA73FF",
+      "notifications.foreground": "#e9e574",
       "panel.background": "#13266B",
       "panel.border": "#13266B60",
       "panelTitle.activeBorder": "#E6453C",
