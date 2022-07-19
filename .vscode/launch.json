@@ -6,6 +6,50 @@
 	"version": "0.2.0",
     "configurations": [
         {
+            "name": "Launch via NPM",
+            "request": "launch",
+            "runtimeArgs": [
+                "run-script",
+                "debug"
+            ],
+            "runtimeExecutable": "npm",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
+            "args": [
+                "-u",
+                "tdd",
+                "--timeout",
+                "999999",
+                "--colors",
+                "${workspaceFolder}/test"
+            ],
+            "internalConsoleOptions": "openOnSessionStart",
+            "name": "Mocha Tests",
+            "program": "${workspaceFolder}/node_modules/mocha/bin/_mocha",
+            "request": "launch",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        
+        {
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ],
+            "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
+            "request": "launch",
+            "type": "extensionHost"
+        },
+        {
             "name": "Extension",
             "type": "extensionHost",
             "request": "launch",
