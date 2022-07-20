@@ -1,5 +1,6 @@
 # Candyshop Theme for VS Code 🍭
-## A vibrant dark theme for all your dreamy candy moods 🍬
+## A vibrant and colorful dark theme for all your dreamy candy moods 🍬
+
 
 ## Installation via VS Code:
 #### 1. Open ```Extensions``` sidebar panel in VS Code. ```view -> Extensions```
