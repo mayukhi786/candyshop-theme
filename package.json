@@ -1,8 +1,8 @@
 {
     "name": "candyshop-theme",
     "displayName": "Candyshop",
+    "version": "0.1.1",
     "description": "A vibrant colorful dark theme for VSCode",
-    "version": "0.1.0",
     "publisher": "mayukhikhan",
     "icon": "/Users/mayukhikhan/candyshop-theme/images/icon.png",
     "repository": {
