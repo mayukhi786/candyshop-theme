@@ -5,7 +5,7 @@
     "colors": {
 
 			"panelTitle.activeForeground": "#a1f9ff",
-            "focusBorder": "#5bcfef",
+            		"focusBorder": "#5bcfef",
 			"sideBarSectionHeader.foreground": "#a970fa",
 			"titleBar.activeForeground": "#c9afff",
 			"titleBar.inactiveForeground": "#fcebeb",
