@@ -10,7 +10,7 @@
         "url": "https://github.com/mayukhi786/candyshop-theme"
     },
     "engines": {
-        "vscode": "^1.69.0"
+        "vscode": "^1.69.0" 
     },
     "keywords": [
         "theme",
