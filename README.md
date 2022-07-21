@@ -1,3 +1,4 @@
+![Candyshop](https://user-images.githubusercontent.com/93079757/180283911-3671d572-870c-4f17-abac-94912f8f706d.png)
 
 # Candyshop Theme for VS Code 🍭
 ## A vibrant and colorful dark theme for all your dreamy candy moods 🍬
