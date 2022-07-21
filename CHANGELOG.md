@@ -2,8 +2,5 @@
 
 All notable changes to the "candyshop-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## Initial Release [v0.6.1]
+#### Got all colors just right, added contrast in syntax highlighting
