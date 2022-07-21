@@ -4,13 +4,13 @@
     "type": "dark",
     "colors": {
 
-            "focusBorder": "#5bcfef",
+            		"focusBorder": "#5bcfef",
 			"sideBarSectionHeader.foreground": "#a970fa",
 			"titleBar.activeForeground": "#c9afff",
 			"titleBar.inactiveForeground": "#fcebeb",
 			"icon.foreground": "#f179f7",
 			"tab.activeForeground": "#c88aff",
-		    "activityBar.border": "#5dab72",
+		   	"activityBar.border": "#5dab72",
 			"sideBar.border": "#5e946d",
 			"foreground": "#f9e279",
 			"widget.shadow": "#141414",
