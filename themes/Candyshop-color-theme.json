@@ -4,7 +4,8 @@
     "type": "dark",
     "colors": {
 
-            		"focusBorder": "#5bcfef",
+			"panelTitle.activeForeground": "#a1f9ff",
+            "focusBorder": "#5bcfef",
 			"sideBarSectionHeader.foreground": "#a970fa",
 			"titleBar.activeForeground": "#c9afff",
 			"titleBar.inactiveForeground": "#fcebeb",
@@ -155,7 +156,7 @@
 			"pickerGroup.border": "#141414",
 			"pickerGroup.foreground": "#399EE6",
 			"terminal.selectionBackground": "#399EE6",
-			"terminalCursor.foreground": "#399EE6",
+			"terminalCursor.foreground": "#41daf5",
 			"terminalCursor.background": "#000000",
 			"gitDecoration.addedResourceForeground": "#78BD65",
 			"gitDecoration.modifiedResourceForeground": "#399EE6",
