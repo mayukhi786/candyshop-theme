@@ -12,6 +12,8 @@
 #### Alternatively, Code > Preferences > Color Theme > Candyshop.
 #### 5. Click ```Reload``` to reload editor.
 
+## Or, install it from Marketplace: 
+### https://marketplace.visualstudio.com/items?itemName=mayukhikhan.candyshop-theme
 
 ## Overview
 ![Screenshot 2022-07-21 at 4 57 28 PM](https://user-images.githubusercontent.com/93079757/180207362-02b2b5a2-fe6b-482b-b3d6-9e600dcb2722.png)
