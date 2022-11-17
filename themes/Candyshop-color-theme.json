@@ -70,7 +70,7 @@
 			"minimapGutter.deletedBackground": "#F07171",
 			"minimapGutter.modifiedBackground": "#399EE6",
 			"editorGroup.border": "#212121",
-			"editorGroup.dropBackground": "#399EE630",
+			"editorGroup.dropBackground": "#399EE630", 
 			"editorGroupHeader.noTabsBackground": "#3b3b3b",
 			"editorGroupHeader.tabsBackground": "#3b3b3b",
 			"tab.activeBackground": "#ac6b6b29",
